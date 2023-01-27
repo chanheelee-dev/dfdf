@@ -1,2 +1,2 @@
 # dfdf
-CLI tools to find cheatsheats or troubleshooting for data scientists
+CLI tools to find cheatsheets or troubleshooting for data scientists
